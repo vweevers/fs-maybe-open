@@ -2,7 +2,7 @@
 
 **Open a file unless it's already a file descriptor.**
 
-[![npm status](http://img.shields.io/npm/v/fs-maybe-open.svg?style=flat-square)](https://www.npmjs.org/package/fs-maybe-open) [![node](https://img.shields.io/node/v/fs-maybe-open.svg?style=flat-square)](https://www.npmjs.org/package/fs-maybe-open) [![Travis build status](https://img.shields.io/travis/vweevers/fs-maybe-open.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/fs-maybe-open) [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/fs-maybe-open.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/fs-maybe-open) [![Dependency status](https://img.shields.io/david/vweevers/fs-maybe-open.svg?style=flat-square)](https://david-dm.org/vweevers/fs-maybe-open)
+[![npm status](http://img.shields.io/npm/v/fs-maybe-open.svg?style=flat-square)](https://www.npmjs.org/package/fs-maybe-open) [![node](https://img.shields.io/node/v/fs-maybe-open.svg?style=flat-square)](https://www.npmjs.org/package/fs-maybe-open) [![Travis build status](https://img.shields.io/travis/vweevers/fs-maybe-open.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/fs-maybe-open) [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/fs-maybe-open.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/fs-maybe-open) [![Dependency status](https://img.shields.io/david/vweevers/fs-maybe-open.svg?style=flat-square)](https://david-dm.org/vweevers/fs-maybe-open) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/fs-maybe-open.svg)](https://greenkeeper.io/)
 
 ## usage
 
